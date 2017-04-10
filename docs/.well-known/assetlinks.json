@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ipaadal.doopaadoo",
+    "sha256_cert_fingerprints":
+    ["AE:96:5B:C9:BD:8D:2D:35:DA:6D:65:78:5B:CB:B8:95:47:26:8F:EC:8C:E7:DF:8F:3E:92:A6:F3:60:A8:0D:4A"]
+  }
+}]
